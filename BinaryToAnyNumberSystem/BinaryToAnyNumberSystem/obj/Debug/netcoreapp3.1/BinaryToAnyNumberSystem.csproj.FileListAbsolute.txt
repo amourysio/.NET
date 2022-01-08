@@ -1,0 +1,14 @@
+C:\Users\Windows10\source\repos\BinaryToAnyNumberSystem\BinaryToAnyNumberSystem\bin\Debug\netcoreapp3.1\BinaryToAnyNumberSystem.exe
+C:\Users\Windows10\source\repos\BinaryToAnyNumberSystem\BinaryToAnyNumberSystem\bin\Debug\netcoreapp3.1\BinaryToAnyNumberSystem.deps.json
+C:\Users\Windows10\source\repos\BinaryToAnyNumberSystem\BinaryToAnyNumberSystem\bin\Debug\netcoreapp3.1\BinaryToAnyNumberSystem.runtimeconfig.json
+C:\Users\Windows10\source\repos\BinaryToAnyNumberSystem\BinaryToAnyNumberSystem\bin\Debug\netcoreapp3.1\BinaryToAnyNumberSystem.runtimeconfig.dev.json
+C:\Users\Windows10\source\repos\BinaryToAnyNumberSystem\BinaryToAnyNumberSystem\bin\Debug\netcoreapp3.1\BinaryToAnyNumberSystem.dll
+C:\Users\Windows10\source\repos\BinaryToAnyNumberSystem\BinaryToAnyNumberSystem\bin\Debug\netcoreapp3.1\BinaryToAnyNumberSystem.pdb
+C:\Users\Windows10\source\repos\BinaryToAnyNumberSystem\BinaryToAnyNumberSystem\obj\Debug\netcoreapp3.1\BinaryToAnyNumberSystem.csproj.AssemblyReference.cache
+C:\Users\Windows10\source\repos\BinaryToAnyNumberSystem\BinaryToAnyNumberSystem\obj\Debug\netcoreapp3.1\BinaryToAnyNumberSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows10\source\repos\BinaryToAnyNumberSystem\BinaryToAnyNumberSystem\obj\Debug\netcoreapp3.1\BinaryToAnyNumberSystem.AssemblyInfoInputs.cache
+C:\Users\Windows10\source\repos\BinaryToAnyNumberSystem\BinaryToAnyNumberSystem\obj\Debug\netcoreapp3.1\BinaryToAnyNumberSystem.AssemblyInfo.cs
+C:\Users\Windows10\source\repos\BinaryToAnyNumberSystem\BinaryToAnyNumberSystem\obj\Debug\netcoreapp3.1\BinaryToAnyNumberSystem.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\BinaryToAnyNumberSystem\BinaryToAnyNumberSystem\obj\Debug\netcoreapp3.1\BinaryToAnyNumberSystem.dll
+C:\Users\Windows10\source\repos\BinaryToAnyNumberSystem\BinaryToAnyNumberSystem\obj\Debug\netcoreapp3.1\BinaryToAnyNumberSystem.pdb
+C:\Users\Windows10\source\repos\BinaryToAnyNumberSystem\BinaryToAnyNumberSystem\obj\Debug\netcoreapp3.1\BinaryToAnyNumberSystem.genruntimeconfig.cache
